@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913639059867",
+    "project_id": "emall-337e6",
+    "storage_bucket": "emall-337e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913639059867:android:fc3db32eaad0a22dc1313e",
+        "android_client_info": {
+          "package_name": "com.worldscience.emall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913639059867-tpb2gcbj527c0gdo6jtnf0av42ec8k3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQBIkhaDR6frXXB1OKkXA6ySedfixlto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913639059867-tpb2gcbj527c0gdo6jtnf0av42ec8k3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
