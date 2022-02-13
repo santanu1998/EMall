@@ -36,6 +36,13 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
+
 
         amount = getIntent().getDoubleExtra("amount", 0.0);
 

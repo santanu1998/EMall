@@ -52,6 +52,12 @@ public class DetailedActivity extends AppCompatActivity {
         toolbar = findViewById(R.id.detailed_toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
         auth = FirebaseAuth.getInstance();
         firestore = FirebaseFirestore.getInstance();
         final Object obj = getIntent().getSerializableExtra("detailed");
