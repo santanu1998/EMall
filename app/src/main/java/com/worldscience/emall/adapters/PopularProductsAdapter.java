@@ -58,6 +58,7 @@ public class PopularProductsAdapter extends RecyclerView.Adapter<PopularProducts
     public class ViewHolder extends RecyclerView.ViewHolder {
         ImageView imageView;
         TextView name, price;
+
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             imageView = itemView.findViewById(R.id.all_img);

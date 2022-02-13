@@ -5,18 +5,25 @@
       <map>
         <entry key="..\:/EMall/app/src/main/res/drawable/edit_text_bg.xml" value="0.162" />
         <entry key="..\:/EMall/app/src/main/res/drawable/ic_launcher_background.xml" value="0.162" />
+        <entry key="..\:/EMall/app/src/main/res/layout/activity_add_address.xml" value="0.24895833333333334" />
+        <entry key="..\:/EMall/app/src/main/res/layout/activity_address.xml" value="0.24895833333333334" />
+        <entry key="..\:/EMall/app/src/main/res/layout/activity_cart.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_detailed.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_login.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_on_boarding.xml" value="0.24895833333333334" />
+        <entry key="..\:/EMall/app/src/main/res/layout/activity_payment.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_show_all.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/activity_sign_up.xml" value="0.24512820512820513" />
+        <entry key="..\:/EMall/app/src/main/res/layout/address_item.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/category_list.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/fragment_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/EMall/app/src/main/res/layout/my_cart_item.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/new_products.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/popular_items.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/show_all_item.xml" value="0.24895833333333334" />
         <entry key="..\:/EMall/app/src/main/res/layout/sliding_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/EMall/app/src/main/res/menu/main_menu.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

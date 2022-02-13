@@ -38,7 +38,7 @@ public class SliderAdapter extends PagerAdapter {
 
     };
 
-    int[]descriptionArray = {
+    int[] descriptionArray = {
 
             R.string.description,
             R.string.description,
@@ -53,7 +53,7 @@ public class SliderAdapter extends PagerAdapter {
 
     @Override
     public boolean isViewFromObject(@NonNull View view, @NonNull Object object) {
-        return view == (ConstraintLayout) object ;
+        return view == (ConstraintLayout) object;
     }
 
     @NonNull

@@ -68,6 +68,7 @@ public class OnBoardingActivity extends AppCompatActivity {
             dots[position].setTextColor(getResources().getColor(R.color.pink));
         }
     }
+
     ViewPager.OnPageChangeListener changeListener = new ViewPager.OnPageChangeListener() {
         @Override
         public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
@@ -79,11 +80,9 @@ public class OnBoardingActivity extends AppCompatActivity {
             addDots(position);
             if (position == 0) {
                 btn.setVisibility(View.INVISIBLE);
-            }
-            else if (position == 1) {
+            } else if (position == 1) {
                 btn.setVisibility(View.INVISIBLE);
-            }
-            else {
+            } else {
                 animation = AnimationUtils.loadAnimation(OnBoardingActivity.this, R.anim.slide_animation);
                 btn.setAnimation(animation);
                 btn.setVisibility(View.VISIBLE);
