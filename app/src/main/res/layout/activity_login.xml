@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:text="Don't Have An Account?"
         android:textSize="17sp"
-        android:textColor="@color/black"
+        android:textColor="@color/material_dynamic_primary0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/password"
         app:layout_constraintHorizontal_bias="0.3"
